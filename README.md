@@ -14,9 +14,7 @@ O grande diferencial deste projeto foi a **validação e tratamento prévio dos 
 ---
 
 ## 🖥️ Visualização do Dashboard
-*(Insira o print do seu dashboard aqui)*
-
----
+![Dashboard de Vendas](dashboard.png)
 
 ## 🗄️ Arquitetura e Desenvolvimento SQL
 
