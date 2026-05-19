@@ -33,3 +33,8 @@ As métricas no Power BI foram organizadas de forma limpa em pastas de exibiçã
 * **KPIs Financeiros:** Faturamento Total, Lucro Total, Margem de Lucro e Ticket Médio.
 * **KPIs Performance Temporal:** Medidas de inteligência de tempo para comparação anual (Ano Anterior e Crescimento % de Lucro).
 * **KPIs de Ranking e Insights:** Descobrimento dinâmico do País Campeão e Categoria Líder.
+
+----
+
+## 📦 Arquivo do Dashboard
+* **`Dashboard_Vendas _AnaliseFinanceira.pbix`:** Arquivo completo do Power BI contendo a modelagem de dados (Star Schema), todas as medidas DAX listadas acima e o design final do dashboard pronto para navegação e interações.
