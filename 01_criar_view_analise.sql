@@ -40,7 +40,7 @@ format (@fatprodutomaisvendido, 'N') as 'Faturamento'
 
 -- Ticket médio
 
-select format (@faturamentototal/@totaldevendas, 'N') as 'Ticket Médio'
+select format (@faturamentototal/@totaldevendas, 'N') as 'Preço por Unidade'
 
 -- País com maior faturamento
 
