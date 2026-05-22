@@ -38,7 +38,7 @@ sum(SalesAmount) desc
 select @produtomaisvendido as 'Produto mais Vendido',
 format (@fatprodutomaisvendido, 'N') as 'Faturamento'
 
--- Ticket médio
+-- Preço Médio por Unidade
 
 select format (@faturamentototal/@totaldevendas, 'N') as 'Preço por Unidade'
 
