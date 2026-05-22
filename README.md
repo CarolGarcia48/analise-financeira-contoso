@@ -30,7 +30,7 @@ Desenvolvimento de consultas utilizando variáveis (`DECLARE`), funções de agr
 
 ## 📊 Estrutura de Medidas DAX
 As métricas no Power BI foram organizadas de forma limpa em pastas de exibição:
-* **KPIs Financeiros:** Faturamento Total, Lucro Total, Margem de Lucro e Ticket Médio.
+* **KPIs Financeiros:** Faturamento Total, Lucro Total, Margem de Lucro e Preço por unidade.
 * **KPIs Performance Temporal:** Medidas de inteligência de tempo para comparação anual (Ano Anterior e Crescimento % de Lucro).
 * **KPIs de Ranking e Insights:** Descobrimento dinâmico do País Campeão e Categoria Líder.
 
